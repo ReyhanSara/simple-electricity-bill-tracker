@@ -16,4 +16,7 @@ Situation 1 - when meter reading is updated (month =1, reading=251244, payment=0
 Situation 2- a payment of 500 is made 
 3    0    -500
 
+Example:
 
+Enter last month’s meter reading and bill amount.
+![alt text](https://github.com/[ReyhanSara]/[simple-electricity-bill-tracker]/img/1.png?raw=true)
