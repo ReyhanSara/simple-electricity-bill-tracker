@@ -19,4 +19,18 @@ Situation 2- a payment of 500 is made
 Example:
 
 Enter last month’s meter reading and bill amount.
-![alt text](https://github.com/[ReyhanSara]/[simple-electricity-bill-tracker]/img/1.png?raw=true)
+![alt text](https://github.com/ReyhanSara/simple-electricity-bill-tracker/blob/master/img/1.png?raw=true)
+
+[1]Enter this month’s meter reading.
+![alt text](https://github.com/ReyhanSara/simple-electricity-bill-tracker/blob/master/img/2.png?raw=true)
+![alt text](https://github.com/ReyhanSara/simple-electricity-bill-tracker/blob/master/img/3.png?raw=true)
+
+[2]Enter payment details.
+![alt text](https://github.com/ReyhanSara/simple-electricity-bill-tracker/blob/master/img/4.png?raw=true)
+![alt text](https://github.com/ReyhanSara/simple-electricity-bill-tracker/blob/master/img/5.png?raw=true)
+
+[3]View Payment history
+![alt text](https://github.com/ReyhanSara/simple-electricity-bill-tracker/blob/master/img/6.png?raw=true)
+
+[4]View Monthly Power consumption
+![alt text](https://github.com/ReyhanSara/simple-electricity-bill-tracker/blob/master/img/7.png?raw=true)
