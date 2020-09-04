@@ -1,0 +1,10 @@
+MonthNo=1	Reading=5110.00	Payment=10410.00
+MonthNo=2	Reading=5000.00	Payment=0.00
+MonthNo=2	Reading=5000.00	Payment=1896.00
+MonthNo=3	Reading=4700.00	Payment=0.00
+MonthNo=3	Reading=4700.00	Payment=10903.50
+MonthNo=4	Reading=5400.00	Payment=0.00
+MonthNo=3	Reading=5400.00	Payment=-34096.50
+MonthNo=4	Reading=4900.00	Payment=0.00
+MonthNo=4	Reading=4900.00	Payment=19903.50
+
