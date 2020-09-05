@@ -1,19 +1,19 @@
 # simple-electricity-bill-tracker
-A program written in C lang to keep track of electricity bill of a house
+A program written in C lang to keep track of the electricity bill of a house.
 
-The program keeps track of the electricity bill of a house with following features.
+The program keeps track of the electricity bill of a house with the following features.
 
-When the program is executing for the first time ask for the last months metre reading and the bill amount
-Then program would display last metre reading and the bill amount at the top and below it program should display a main menu of different choices 
-        [1]. Enter this months reading
+When the program is executing for the first time, it asks for the last month's meter reading and the bill amount.
+The program would then display the last metre reading and the bill amount, below it the program would display the main menu as follows,
+        [1]. Enter this month's reading
         [2]. Enter payment details
         [3]. View payment history
-        [4]. View monthly power consuption
+        [4]. View monthly power consumption 
 
-The program maintains a text file with three colums Month number, meter reading, payment;
-Situation 1 - when meter reading is updated (month =1, reading=251244, payment=0) the new row looks like
+The program maintains a text file with three colums; Month number, meter reading, payment;
+Situation 1 - when the meter reading is updated (month =1, reading=251244, payment=0) the new row looks like
 3    251244    0
-Situation 2- a payment of 500 is made 
+Situation 2- when a payment of 500 is made 
 3    0    -500
 
 Example:
